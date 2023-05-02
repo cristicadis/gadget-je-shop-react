@@ -111,6 +111,7 @@ const Wrapper = styled.section`
     border-radius: var(--radius);
     border-color: transparent;
     letter-spacing: var(--spacing);
+    max-width:170px;
   }
   .search-input::placeholder {
     text-transform: capitalize;
